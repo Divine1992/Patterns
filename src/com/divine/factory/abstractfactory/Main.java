@@ -1,9 +1,9 @@
-package com.divine.fatory.abstractfactory;
+package com.divine.factory.abstractfactory;
 
-import com.divine.fatory.abstractfactory.airplane.Airplane;
-import com.divine.fatory.abstractfactory.airplane.AirplaneType;
-import com.divine.fatory.abstractfactory.car.Car;
-import com.divine.fatory.abstractfactory.car.CarType;
+import com.divine.factory.abstractfactory.airplane.Airplane;
+import com.divine.factory.abstractfactory.airplane.AirplaneType;
+import com.divine.factory.abstractfactory.car.Car;
+import com.divine.factory.abstractfactory.car.CarType;
 
 public class Main {
 	

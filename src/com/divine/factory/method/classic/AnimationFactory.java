@@ -1,4 +1,4 @@
-package com.divine.fatory.method.classic;
+package com.divine.factory.method.classic;
 
 public class AnimationFactory {
 	

@@ -1,4 +1,4 @@
-package com.divine.fatory.abstractfactory.airplane;
+package com.divine.factory.abstractfactory.airplane;
 
 public class Boeing implements Airplane{
 

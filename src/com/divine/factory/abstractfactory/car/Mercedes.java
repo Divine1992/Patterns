@@ -1,4 +1,4 @@
-package com.divine.fatory.abstractfactory.car;
+package com.divine.factory.abstractfactory.car;
 
 public class Mercedes implements Car{
 

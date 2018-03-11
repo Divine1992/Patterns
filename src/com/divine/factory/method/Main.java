@@ -1,10 +1,10 @@
-package com.divine.fatory.method;
+package com.divine.factory.method;
 
-import com.divine.fatory.method.classic.Animation;
-import com.divine.fatory.method.classic.AnimationFactory;
-import com.divine.fatory.method.classic.AnimationType;
-import com.divine.fatory.method.innerclass.Picture;
-import com.divine.fatory.method.innerclass.ShapeFactory;
+import com.divine.factory.method.classic.Animation;
+import com.divine.factory.method.classic.AnimationFactory;
+import com.divine.factory.method.classic.AnimationType;
+import com.divine.factory.method.innerclass.Picture;
+import com.divine.factory.method.innerclass.ShapeFactory;
 
 public class Main {
 	

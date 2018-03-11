@@ -1,4 +1,4 @@
-package com.divine.fatory.abstractfactory;
+package com.divine.factory.abstractfactory;
 
 public enum VehicleType {
 	CAR,

@@ -1,4 +1,4 @@
-package com.divine.fatory.method.innerclass;
+package com.divine.factory.method.innerclass;
 
 // Not profit for huge system
 public final class ShapeFactory {
