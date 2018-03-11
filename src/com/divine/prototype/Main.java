@@ -10,7 +10,7 @@ public class Main {
 		System.out.println("ap2 "+ap2);
 		
 		// Using factory
-		Apartament ap3 = CloneFactory.copy(ap1);
+		Apartament ap3 = CopyFactory.copy(ap1);
 		System.out.println("ap3 "+ap3);
 		
 	}

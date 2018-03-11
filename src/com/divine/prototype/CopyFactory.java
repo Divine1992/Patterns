@@ -1,6 +1,6 @@
 package com.divine.prototype;
 
-public class CloneFactory {
+public class CopyFactory {
 
 	public static <T extends Object> T copy(T type) {
 		return type;
